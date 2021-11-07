@@ -13,6 +13,8 @@ O GitHub permite criar um site do GitHub Pages para seus projetos, a partir de u
 
 5. Acesse seu GitHub Pages: username.github.io em um navegador.
 
+Criando GitHub Pages: <a href="https://www.instagram.com/reel/CSVLlSeAU3x/" target="_blank">Reels no Instagram</a>.
+
 Fonte: pages.github.com<br>
 docs.github.com/pt/pages
 
