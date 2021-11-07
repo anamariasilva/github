@@ -27,7 +27,7 @@ obs.: Se a primeira parte do repositório não corresponder exatamente ao seu 
 
 <strong>Referências:</strong>
 
-Como personalizar seu Perfil do GitHub! (Forked from rafaballerini/PerfilGithub): https://github.com/anamariasilva/PerfilGithub
+Como personalizar o seu perfil no github! (Forked from rafaballerini/PerfilGithub): https://github.com/anamariasilva/PerfilGithub
 
 pages.github.com<br>
 docs.github.com/pt/pages
