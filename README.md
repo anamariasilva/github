@@ -1,5 +1,7 @@
 # Links úteis sobre GitHub
 
+Links úteis e tutoriais sobre GitHub: README e GitHub Pages.
+
 ## Como criar README
 
 <a href="https://www.instagram.com/p/CSQM0ImAqFq/?utm_medium=copy_link" target="_blank">Tutorial Como criar README</a> (Post no Instagram)
