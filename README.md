@@ -2,7 +2,7 @@
 
 ## Como criar README
 
-
+<a href="https://www.instagram.com/p/CSQM0ImAqFq/?utm_medium=copy_link" target="_blank">Passo-a-passo Como criar README</a> (Post no Instagram)
 
 ## GitHub Pages
 https://anamariasilva.github.io/
@@ -21,7 +21,11 @@ obs.: Se a primeira parte do repositório não corresponder exatamente ao seu 
 
 5. Acesse seu GitHub Pages: username.github.io em um navegador.
 
-Criando GitHub Pages: <a href="https://www.instagram.com/reel/CSVLlSeAU3x/" target="_blank">Reels no Instagram</a>.
+<a href="https://www.instagram.com/p/CO_XgZYjBil/?utm_medium=copy_link" target="_blank">Passo-a-passo Como criar GitHub Pages</a> (Post no Instagram).
+
+<a href="https://www.instagram.com/reel/CSVLlSeAU3x/" target="_blank">Criando GitHub Page</a> (Reels no Instagram).
+
+
 
 Fonte: pages.github.com<br>
 docs.github.com/pt/pages
