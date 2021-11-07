@@ -2,6 +2,8 @@
 
 Links úteis e tutoriais sobre GitHub: README e GitHub Pages.
 
+<a href="https://www.instagram.com/p/CV_LXhXFQTc/" target="_blank">README e GitHub Pages: Criando repositórios especiais no GitHub</a> (Post no Insgaram @ana.tech.dev).
+
 ## Como criar README
 
 <a href="https://www.instagram.com/p/CSQM0ImAqFq/?utm_medium=copy_link" target="_blank">Tutorial Como criar README</a> (Post no Instagram)
