@@ -13,6 +13,6 @@ O GitHub permite criar um site do GitHub Pages para seus projetos, a partir de u
 
 5. Acesse seu GitHub Pages: username.github.io em um navegador.
 
-Fonte: pages.github.com
+Fonte: pages.github.com<br>
 docs.github.com/pt/pages
 
