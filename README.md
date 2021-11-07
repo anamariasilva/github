@@ -2,7 +2,7 @@
 
 ## Como criar README
 
-<a href="https://www.instagram.com/p/CSQM0ImAqFq/?utm_medium=copy_link" target="_blank">Passo-a-passo Como criar README</a> (Post no Instagram)
+<a href="https://www.instagram.com/p/CSQM0ImAqFq/?utm_medium=copy_link" target="_blank">Tutorial Como criar README</a> (Post no Instagram)
 
 ## GitHub Pages
 https://anamariasilva.github.io/
