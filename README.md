@@ -23,7 +23,7 @@ obs.: Se a primeira parte do repositório não corresponder exatamente ao seu 
 
 <a href="https://www.instagram.com/p/CO_XgZYjBil/?utm_medium=copy_link" target="_blank">Passo-a-passo Como criar GitHub Pages</a> (Post no Instagram).
 
-<a href="https://www.instagram.com/reel/CSVLlSeAU3x/" target="_blank">Criando GitHub Page</a> (Reels no Instagram).
+<a href="https://www.instagram.com/reel/CSVLlSeAU3x/" target="_blank">Criando GitHub Pages</a> (Reels no Instagram).
 
 <strong>Referências:</strong>
 
