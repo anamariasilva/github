@@ -27,7 +27,7 @@ obs.: Se a primeira parte do repositório não corresponder exatamente ao seu 
 
 <a href="https://www.instagram.com/reel/CSVLlSeAU3x/" target="_blank">Criando GitHub Pages</a> (Reels no Instagram).
 
-### Referências:
+### Referências
 
 Como personalizar o seu perfil no github! (Forked from rafaballerini/PerfilGithub): https://github.com/anamariasilva/PerfilGithub
 
