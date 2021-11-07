@@ -7,6 +7,8 @@ O GitHub permite criar um site do GitHub Pages para seus projetos, a partir de u
 
 2. Crie um novo repositório público com o mesmo nome do seu usuário no GitHub: username.github.io
 
+obs.: Se a primeira parte do repositório não corresponder exatamente ao seu nome de usuário, não funcionará, então certifique-se de que está correto.
+
 3. Clique em "Create repository".
 
 4. O GitHub oferece algumas opções de templates. Em Settings > GitHub Pages > Choose a theme.
