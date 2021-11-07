@@ -1,7 +1,7 @@
 # Como criar GitHub Pages
 https://anamariasilva.github.io/
 
-O GitHub permite criar um site do GitHub Pages para seus projetos, a partir de um novo repositório para armazenar o código-fonte do seu site.
+O GitHub permite criar um site do GitHub Pages para seus projetos, a partir de um novo repositório.
 
 1. Em "Repositories" clique em "New".
 
