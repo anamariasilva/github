@@ -1,6 +1,6 @@
-# Links úteis sobre GitHub
+# Links e Tutorial sobre GitHub
 
-Links úteis e tutoriais sobre GitHub: README e GitHub Pages.
+Links e tutoriais sobre GitHub para criar README e GitHub Pages.
 
 <a href="https://www.instagram.com/p/CV_LXhXFQTc/" target="_blank">README e GitHub Pages: Criando repositórios especiais no GitHub</a> (Post no Instagram @ana.tech.dev)
 
