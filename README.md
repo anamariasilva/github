@@ -4,11 +4,11 @@ Links e tutoriais sobre GitHub para criar README e GitHub Pages.
 
 <a href="https://www.instagram.com/p/CV_LXhXFQTc/" target="_blank">README e GitHub Pages: Criando repositórios especiais no GitHub</a> (Post no Instagram @ana.tech.dev)
 
-[Perfil de organização github.com/anatechdev](https://github.com/anatechdev)
-
 ## Como criar README
 
-<a href="https://www.instagram.com/p/CSQM0ImAqFq/?utm_medium=copy_link" target="_blank">Tutorial Como criar README</a> (Post no Instagram)
+<a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a> [Tutorial Como criar README](https://www.instagram.com/p/CSQM0ImAqFq/?utm_medium=copy_link" target="_blank")
+
+<a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a> [Personalizando o perfil de organização no GitHub](https://www.instagram.com/p/CZ7IqLRlnZL/)
 
 ## GitHub Pages
 https://anamariasilva.github.io/
