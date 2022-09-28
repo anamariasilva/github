@@ -33,6 +33,8 @@ obs.: Se a primeira parte do repositório não corresponder exatamente ao seu 
 
 ### Referências
 
+[Git Guide](https://github.com/git-guides) <br>
+
 Como personalizar o seu perfil no github! (Forked from rafaballerini/PerfilGithub): https://github.com/anamariasilva/PerfilGithub <br>
 
 [Sobre o Git por GitHub Docs](https://docs.github.com/pt/get-started/using-git/about-git)
