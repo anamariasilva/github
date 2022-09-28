@@ -31,7 +31,7 @@ obs.: Se a primeira parte do repositório não corresponder exatamente ao seu 
 
 <a href="https://www.instagram.com/reel/CSVLlSeAU3x/" target="_blank">Criando GitHub Pages</a> (Reels no Instagram).
 
-### Referências
+## Referências
 
 [Git Guide](https://github.com/git-guides) <br>
 
