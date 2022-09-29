@@ -12,7 +12,7 @@ Links e tutoriais sobre GitHub para criar README e GitHub Pages.
 
 ## GitHub Pages
 
-https://anamariasilva.github.io/
+[anamariasilva.github.io/](https://anamariasilva.github.io/) <br>
 
 O GitHub permite criar um site do GitHub Pages para seus projetos, a partir de um novo repositório.
 
