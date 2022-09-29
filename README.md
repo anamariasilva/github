@@ -1,4 +1,4 @@
-# Links e Tutorial sobre GitHub
+# Referências e Tutoriais sobre GitHub
 
 Links e tutoriais sobre GitHub para criar README e GitHub Pages.
 
@@ -11,6 +11,7 @@ Links e tutoriais sobre GitHub para criar README e GitHub Pages.
 <a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a> [Personalizando o README de perfil de organização no GitHub](https://www.instagram.com/p/CZ7IqLRlnZL/)
 
 ## GitHub Pages
+
 https://anamariasilva.github.io/
 
 O GitHub permite criar um site do GitHub Pages para seus projetos, a partir de um novo repositório.
@@ -49,4 +50,3 @@ __<br>
 Ana Maria Silva | <a href="https://www.anamaria.dev.br" target="_blank">www.anamaria.dev.br</a><br>
 :octocat: <a href="https://github.com/anamariasilva" target="_blank">github.com/anamariasilva</a><br>
 :octocat: <a href="https://github.com/anatechdev" target="_blank">github.com/anatechdev</a>
-
