@@ -42,8 +42,8 @@ Como personalizar o seu perfil no github! (Forked from rafaballerini/PerfilGithu
 
 [Sobre o Git por GitHub Docs](https://docs.github.com/pt/get-started/using-git/about-git)
 
-pages.github.com<br>
-docs.github.com/pt/pages
+[pages.github.com](https://pages.github.com/) <br>
+[docs.github.com/pt/pages](https://docs.github.com/pt/pages)
 
 <br>
 __<br>
